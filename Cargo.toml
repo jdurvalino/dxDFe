@@ -1,0 +1,7 @@
+[package]
+name = "dxDfe"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jorge Durvalino - jorge.durvalinojr@gmail.com"]
+
+[dependencies]
