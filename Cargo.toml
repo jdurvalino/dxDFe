@@ -5,3 +5,4 @@ edition = "2021"
 authors = ["Jorge Durvalino - jorge.durvalinojr@gmail.com"]
 
 [dependencies]
+crossterm = "0.27"
